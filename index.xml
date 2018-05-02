@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoZhu</title>
+    <link>https://mozhuli.github.io/</link>
+    <description>Recent content on MoZhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>weidonglee27@gmail.com (mozhuli)</managingEditor>
+    <webMaster>weidonglee27@gmail.com (mozhuli)</webMaster>
+    <copyright>(c) 2018 All rights reserved.</copyright>
+    <lastBuildDate>Sat, 28 Apr 2018 18:25:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://mozhuli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://mozhuli.github.io/about/</link>
+      <pubDate>Sat, 28 Apr 2018 18:25:46 +0800</pubDate>
+      <author>weidonglee27@gmail.com (mozhuli)</author>
+      <guid>https://mozhuli.github.io/about/</guid>
+      <description>Hi，我是MoZhu，浙大计算机学院VLIS/SEL实验室研二学生，研究生主要研究方向为Kubernetes，OpenStack，Docke</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,3 @@
-# mozhuli.github.io
-My personal blog
+# My personal blog
+
+https://mozhuli.xyz/
