@@ -1,0 +1,71 @@
+baseURL = "https://mozhuli.xyz/"
+languageCode = "zh-cn"
+
+hasCJKLanguage = true
+enableEmoji = true
+buildDrafts = true
+enableRobotsTXT = true
+
+# Site title
+title = "MoZhu"
+
+# Copyright
+copyright = "(c) 2018 All rights reserved."
+
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
+
+# theme to use (located in /themes/THEMENAME/)
+theme = "hyde-y"
+
+# pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "MoZhu"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "mozhuli"
+    email = "weidonglee27@gmail.com"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = "MoZhu"
+    topline = "沉默的筷子！"
+    footline = "code with <i class='fa fa-heart'></i>"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Sidebar social links.
+    github = "mozhuli" # Your Github profile ID
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []

@@ -1,0 +1,18 @@
+[About]
+    Name = "About"
+    URL = "/about"
+
+[Container-Networking]
+    Name = "Container-Networking"
+    Title = "Container-Networking 中文版"
+    URL = "https://containernetwork.mozhuli.xyz"
+
+[SDN]
+    Name = "SDN"
+    Title = "SDN Learning notes"
+    URL = "https://sdn.mozhuli.xyz"
+
+[CSDN]
+    Name = "CSDN"
+    Title = "My CSDN（已停止更新）"
+    URL = "https://blog.csdn.net/ptmozhu"
