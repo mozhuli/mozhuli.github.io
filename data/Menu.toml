@@ -2,6 +2,15 @@
     Name = "About"
     URL = "/about"
 
+[Home]
+    Name = "Home"
+    URL = "/blog"
+
+[Kubernetes]
+    Name = "Kubernetes"
+    Title = "posts about kubernetes"
+    URL = "/kubernetes/"
+
 [Container-Networking]
     Name = "Container-Networking"
     Title = "Container-Networking 中文版"
