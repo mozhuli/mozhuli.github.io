@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on MoZhu</title>
-    <link>https://mozhuli.github.io/topics/</link>
+    <link>https://mozhuli.xyz/topics/</link>
     <description>Recent content in Topics on MoZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -10,7 +10,7 @@
     <webMaster>weidonglee27@gmail.com (mozhuli)</webMaster>
     <copyright>(c) 2018 All rights reserved.</copyright>
     
-	<atom:link href="https://mozhuli.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mozhuli.xyz/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

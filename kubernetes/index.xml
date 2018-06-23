@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MoZhu</title>
-    <link>https://mozhuli.xyz/</link>
-    <description>Recent content on MoZhu</description>
+    <title>Kubernetes on MoZhu</title>
+    <link>https://mozhuli.xyz/kubernetes/</link>
+    <description>Recent content in Kubernetes on MoZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>weidonglee27@gmail.com (mozhuli)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>(c) 2018 All rights reserved.</copyright>
     <lastBuildDate>Sat, 23 Jun 2018 15:09:51 +0800</lastBuildDate>
     
-	<atom:link href="https://mozhuli.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mozhuli.xyz/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,24 +30,6 @@
       <author>weidonglee27@gmail.com (mozhuli)</author>
       <guid>https://mozhuli.xyz/kubernetes/scheduler/</guid>
       <description>Kube-scheduler解析 &amp;emsp;&amp;emsp;Kube-scheduler具有丰富的调度策略，能够感知集群的拓扑，同时能够适应于特</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://mozhuli.xyz/about/</link>
-      <pubDate>Sat, 28 Apr 2018 18:25:46 +0800</pubDate>
-      <author>weidonglee27@gmail.com (mozhuli)</author>
-      <guid>https://mozhuli.xyz/about/</guid>
-      <description>Hi，我是MoZhu，浙大计算机学院VLIS/SEL实验室研二学生，研究生主要研究方向为Kubernetes，OpenStack，Docke</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mozhuli.xyz/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>weidonglee27@gmail.com (mozhuli)</author>
-      <guid>https://mozhuli.xyz/blog/</guid>
-      <description>文章 kube-scheduler 1.10解析 Kubernetes上如何编写自定义controller Gitbook 《Container Networking》中文版 《SDN学习笔记</description>
     </item>
     
   </channel>
